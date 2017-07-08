@@ -16,7 +16,7 @@ pc端页面说实话没啥太多想说的，因为这边的要求是要兼容要
 ### 普通的形式
 pc端的页面，个人的原则是保证页面的兼容性、流畅性、可复用性。开发的大部分pc的页面基本都是一个模板页面，然后把页面丢给编辑，他们去填写内容。所以这个里面就得要保证页面逻辑的清晰、页面的可复用性。
 
-pc端常用的效果轮播，这里我用的插件是(slidejs)(http://slidesjs.com/)，也会用[bxslider](https://github.com/stevenwanderski/bxslider-4)；然后经常会有列表类的数据，为了方便编辑填写内容，我会用[handlebars](https://github.com/wycats/handlebars.js/)；也会经常有分页的需求，这里我用的[jpages](http://luis-almeida.github.io/jPages/)。这里就不去描述每个插件的如何使用，也不做任何的插件对比了，前端里面插件各式各样，还是那个原则，先入为主，好用、能用、方便用即可，个人不太爱去做太多的比较。当然也希望能用更好的插件，欢迎大家留言推荐给我。
+pc端常用的效果轮播，这里我用的插件是[slidejs](http://slidesjs.com/)，也会用[bxslider](https://github.com/stevenwanderski/bxslider-4/)；然后经常会有列表类的数据，为了方便编辑填写内容，我会用[handlebars](https://github.com/wycats/handlebars.js/)；也会经常有分页的需求，这里我用的[jpages](http://luis-almeida.github.io/jPages/)。这里就不去描述每个插件的如何使用，也不做任何的插件对比了，前端里面插件各式各样，还是那个原则，先入为主，好用、能用、方便用即可，个人不太爱去做太多的比较。当然也希望能用更好的插件，欢迎大家留言推荐给我。
 
 pc端的页面，其实个人更看好他的可维护性和可复用性，我希望的是我开发的一个页面，能复用很多次，可持续更新，下面几个就是在公司内部已经跑了很多期的页面。
 
