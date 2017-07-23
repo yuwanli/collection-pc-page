@@ -5,6 +5,12 @@ pc端页面说实话没啥太多想说的(相应的有个[h5的集合](https://g
 
 这里我将形式的不同做一个区分(当然这里不会罗列出所有)：
 
+### js实现动画的形式
+
+- [大浙网品宣](http://zj.qq.com/about.htm)
+
+![大浙网品宣](readme-images/2.png "大浙网品宣")
+
 ### 全屏滚动形式([fullpage](https://github.com/alvarotrigo/fullPage.js/))
 
 - [旅游频道营销手册](http://zj.qq.com/zt2016/lyhz/index.htm)
